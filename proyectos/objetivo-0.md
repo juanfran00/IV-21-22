@@ -53,7 +53,7 @@ línea con tus iniciales.
 | <!-- Enlace de Parka015 --> | | |
 | <!-- Enlace de S R E --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
-| https://github.com/LuisSS20/StockAndPrices/pull/1 | 0.0.1 | |
+| https://github.com/LuisSS20/StockAndPrices/pull/1 | 0.0.1 |  |
 | <https://github.com/juanfran00/IV/pull/1 |0.0.1| |
 | https://github.com/albertotc99/MercadoClubesPro/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de aleveji --> | | |
