@@ -7,7 +7,7 @@ línea con tus iniciales.
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| https://github.com/noise-kngdm/music-matcher/pull/1 | 0.0.1 | |
+| https://github.com/noise-kngdm/enumerathor/pull/1 | 0.0.1 | |
 | https://github.com/Esturillo98/IV/pull/1 | 0.0.1 | |
 | https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/1 | 0.0.1 |✓ |
 | https://github.com/Paszser/IV/pull/2 | 0.0.1 |✓ |
@@ -54,7 +54,7 @@ línea con tus iniciales.
 | <!-- Enlace de S R E --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
 | https://github.com/LuisSS20/StockAndPrices/pull/1 | 0.0.1 | |
-| <!-- Enlace de juanfran00 --> | | |
+| https://github.com/juanfran00/IV/pull/1 | 0.0.1 | |
 | https://github.com/albertotc99/MercadoClubesPro/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de aleveji --> | | |
 | https://github.com/paula1999/IV/pull/1 | 0.0.1 | |
